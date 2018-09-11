@@ -1,3 +1,5 @@
+[View on Stackoverflow](https://stackoverflow.com/a/52284047/7602110)
+
 Use the menu selection **Navigate > Test**
 
 [![gif][1]][1]
