@@ -10,5 +10,6 @@
 # Answers
 
 
-- [46476470](46476470)
-- [4346786](4346786)
+1. [46476470](46476470) - Can't create project on Netbeans 8.2
+1. [4346786](4346786) - Create Test Class in IntelliJ
+1. [901712](901712) - How to check whether a checkbox is checked in jQuery?
