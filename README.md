@@ -14,3 +14,4 @@
 1. [4346786](4346786) - Create Test Class in IntelliJ
 1. [901712](901712) - How to check whether a checkbox is checked in jQuery?
 1. [34820275](34820275) - Count how many times elements in an array are repeated
+1. [842059](842059) - Is there a portable way to get the current username in Python?
