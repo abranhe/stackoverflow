@@ -31,3 +31,4 @@
 1. [40407124](40407124) - Android Studio 2.2.2 : Tools > Android menu is missing in Mac OS X
 1. [48507685](48507685) - GitHub public link format for accessing my website
 1. [47900175](47900175) - Git Bash still pushing with previous username
+1. [47971759](47971759) - GitHub pages index page url
